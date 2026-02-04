@@ -1,6 +1,6 @@
-# HeartCHilD: Pediatric Arrhythmia Screening via 1D-CNN Ensemble
+# HeartCHilD: Pediatric CHD Screening via 1D-CNN Ensemble
 
-An end-to-end pipeline for pediatric arrhythmia detection using 12-lead ECGs. HeartCHilD integrates structured windowing, targeted augmentation, balanced weighting, model ensembling, and probability calibration to achieve high discrimination and reliable risk scores on limited pediatric data.
+An end‑to‑end pipeline for congenital heart disease (CHD) screening in children using 12‑lead ECGs. HeartCHilD integrates structured windowing, targeted augmentation, balanced weighting, model ensembling, and probability calibration to achieve high discrimination and reliable risk scores on limited pediatric data.
 
 ## Main Features
 
